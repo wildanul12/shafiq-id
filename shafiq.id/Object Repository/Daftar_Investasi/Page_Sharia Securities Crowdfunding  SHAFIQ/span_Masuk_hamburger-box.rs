@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Masuk_hamburger-box</name>
+   <tag></tag>
+   <elementGuidId>2f144327-cc39-4d7e-8486-bf11bb0c55a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.hamburger-box</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='offcanvas']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>47324c83-0017-4478-a21c-c065032828d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hamburger-box</value>
+      <webElementGuid>b8326e13-63a0-4148-b1eb-c844692a25e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container&quot;]/nav[@class=&quot;[ shafiq-navbar ] navbar navbar-expand-lg&quot;]/button[@id=&quot;offcanvas&quot;]/span[@class=&quot;hamburger-box&quot;]</value>
+      <webElementGuid>1f3c562d-a344-44ed-af74-a4b23f094e0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='offcanvas']/span</value>
+      <webElementGuid>6ee1fb7c-bacd-4883-b35b-f7fd7abba117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::span[2]</value>
+      <webElementGuid>29656df4-15ec-4dab-9884-e807b200fe49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::span[3]</value>
+      <webElementGuid>68d16bea-8347-480e-9137-ae87016a4131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>cd2de5ac-bfe2-47b5-87d1-1ba599366b14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

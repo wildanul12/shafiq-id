@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_(CARC-SMY02) Pembelian 47 Unit Mobil dari_c950e2</name>
+   <tag></tag>
+   <elementGuidId>067cee20-fbc1-47d7-9b51-65bb998ec5d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='portfolio-feed']/div/div/div/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1ccf41c2-c35e-4ae3-824c-000fff47a8ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>:href</name>
+      <type>Main</type>
+      <value>item.url</value>
+      <webElementGuid>95c0eb5d-6780-4a43-adb4-69d1c8c70230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x-text</name>
+      <type>Main</type>
+      <value>'('+item.kode_saham+') '+item.name</value>
+      <webElementGuid>9f94f111-fffb-43e2-a668-c6d2f8a778d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.shafiq.id/daftar-investasi/165/detail</value>
+      <webElementGuid>72f5363d-6f15-44a9-b00c-70348189b32b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(CARC-SMY02) Pembelian 47 Unit Mobil dari CV Triple Tujuh</value>
+      <webElementGuid>773fb13e-c0dd-4a17-9509-3c3da9af06f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;portfolio-feed&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-4 mb-8&quot;]/div[@class=&quot;overflow-hidden rounded-md card-shadow&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;mb-5&quot;]/div[@class=&quot;block text-sm font-medium text-primary md:text-h4&quot;]/a[1]</value>
+      <webElementGuid>eb9f012d-44f1-473d-a629-be18443f9d0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='portfolio-feed']/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>120d94c0-6a94-420a-8c73-c406e12cfac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'(CARC-SMY02) Pembelian 47 Unit Mobil dari CV Triple Tujuh')]</value>
+      <webElementGuid>d79fe965-ccd0-4d82-96df-b6c1b023a6fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MUSYARAKAH'])[1]/following::a[1]</value>
+      <webElementGuid>1ac77a3f-99ea-430a-a94b-de873d0fe34f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUKUK'])[1]/following::a[1]</value>
+      <webElementGuid>4d0d2b5f-7a09-489a-9fd8-d21f0a49afe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT ARYA MANDIRI INVESTAMA'])[1]/preceding::a[1]</value>
+      <webElementGuid>e137e2b6-dda0-455f-ae98-d101b7f677ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendanaan Terpenuhi'])[1]/preceding::a[1]</value>
+      <webElementGuid>f911f7d2-d36d-4f55-a639-758c066fcf25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(CARC-SMY02) Pembelian 47 Unit Mobil dari CV Triple Tujuh']/parent::*</value>
+      <webElementGuid>0dfcb7b3-ac77-42b9-9f03-4af62f672694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.shafiq.id/daftar-investasi/165/detail')])[2]</value>
+      <webElementGuid>e3ad6fc6-ad16-4afb-81b0-9529cacfbce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/a</value>
+      <webElementGuid>cc68d6ca-be42-42d8-8baf-fa7d7e080e5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.shafiq.id/daftar-investasi/165/detail' and (text() = '(CARC-SMY02) Pembelian 47 Unit Mobil dari CV Triple Tujuh' or . = '(CARC-SMY02) Pembelian 47 Unit Mobil dari CV Triple Tujuh')]</value>
+      <webElementGuid>50a4159c-771d-40fc-9d85-37464dda7580</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
